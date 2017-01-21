@@ -15,16 +15,31 @@ h2{
 }
 h3{
     color:teal;
+    width: 500;
 }
 a:hover{
     color:teal;
     font-weight:bold;
     text-decoration:none;
 }
+
 .testimg{
     border:3px solid maroon;
 }
 #endstuff{
     text-align: center;
     color:Indigo;
+}
+.downloadbutton{
+    clear:both;
+    display: inline;
+    float: right;
+    height: 25%;
+
+}
+
+.buttongroup{
+    display: inline-block;
+    float: right;
+    margin-top: -20px;
 }
