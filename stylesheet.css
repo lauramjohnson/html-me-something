@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana;
+    background: linen url("images/swirl_pattern.png");
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-decoration: underline;
+    color:maroon;
+}
+h3{
+    color:teal;
+}
+a:hover{
+    color:teal;
+    font-weight:bold;
+    text-decoration:none;
+}
+.testimg{
+    border:3px solid maroon;
+}
+#endstuff{
+    text-align: center;
+    color:Indigo;
+}
